@@ -8,7 +8,7 @@
 - **[Colorization_project](https://github.com/denis201520182022/colorization-project.git)**  
   Разработка и сравнение нескольких разных моделей для задачи раскрашивания черно-белых изображений
   
-- **[Анализ данных в Exc](https://github.com/denis201520182022/Delays_analysis.git)**
+- **[Анализ кредитных данных](https://github.com/denis201520182022/Delays_analysis.git)**
   Исследование кредитных данных, расчёт SLA, корреляционный анализ, визуализация.
 
 - **[Telegram_bot_for_My_Model](https://github.com/your-username/)**  
