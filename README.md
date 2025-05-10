@@ -45,7 +45,7 @@
 - 📧 **Email**: denis20152018@yandex.ru
 - 📱 **Телефон**: +7 (961) 440-12-64
 - 💬 **Telegram**: [@denis20152018](https://t.me/denis20152018)
-- 🌐 **GitHub**: [github.com/your-username](https://github.com/your-username)
+- 🌐 **GitHub**: [github.com/your-username](https://github.com/denis201520182022)
 - 🔗 **LinkedIn**: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
 
 ## 💬 Чем я могу быть полезен
